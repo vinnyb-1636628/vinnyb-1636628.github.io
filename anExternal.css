@@ -1,0 +1,27 @@
+body{
+    background-color:red
+}
+p{
+    color: white; font-weight: bold; font-size: 14px;
+}
+h1{
+    color: aqua;
+}
+h2{
+    color: aquamarine;
+}
+h3{
+    color: blueviolet;
+}
+#Floater{
+    float: right;
+    background-color: blue;
+    border-radius: 10px;
+    text-align: center;
+}
+#Roundy{
+    float: center;
+    background-color: navy;
+    border-radius: 30px;
+    text-align: center;
+}
